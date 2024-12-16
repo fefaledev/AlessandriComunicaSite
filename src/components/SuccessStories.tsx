@@ -9,7 +9,7 @@ const stories = [
     solution:
       "Constância de postagens com autênticidade, adoção de uma identidade visual e uso de materiais audiovisuais de qualidade.",
     results: `Adoção do "Paty aqui" em toda a serra gaúcha, mais de 7.000 seguidoras fiéis engajadas. Paty se tornou mentora de cursos e influenciadora digital (nem preciso dizer que a agenda dela é cheia, né?).`,
-    image: "/assets/img/paty-centena.png",
+    image: "/AlessandriComunicaSite/assets/img/paty-centena.png",
   },
 ];
 

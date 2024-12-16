@@ -56,8 +56,8 @@ export function Hero() {
               <div className="w-full lg:w-1/2 flex justify-center lg:justify-end">
                 <div className="relative w-[400px] h-[400px]">
                   <img
-                    src="/assets/img/alessandri-comunica.png"
-                    alt="Marketing team collaboration"
+                    src="/AlessandriComunicaSite/assets/img/alessandri-comunica.png"
+                    alt="Alessandri Comunica Logo"
                     className="w-full h-full object-cover"
                   />
                 </div>
